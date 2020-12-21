@@ -22,3 +22,15 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 3. Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
 4. Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
 5. Python can be treated in a procedural way, an object-oriented way or a functional way.
+
+**Built-in Data Types**
+In programming, data type is an important concept.
+Variables can store data of different types, and different types can do different things.
+Python has the following data types built-in by default, in these categories:
+1. Text Type:	str
+2. Numeric Types:	int, float, complex
+3. Sequence Types:	list, tuple, range
+4. Mapping Type:	dict
+5. Set Types:	set, frozenset
+6. Boolean Type:	bool
+7. Binary Types:	bytes, bytearray, memoryview
