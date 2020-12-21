@@ -1,6 +1,7 @@
 # PYTHON
 
 **What is Python?**
+
 Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 
 **It is used for:**
@@ -24,8 +25,11 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 5. Python can be treated in a procedural way, an object-oriented way or a functional way.
 
 **Built-in Data Types**
+
 In programming, data type is an important concept.
+
 Variables can store data of different types, and different types can do different things.
+
 Python has the following data types built-in by default, in these categories:
 1. Text Type:	str
 2. Numeric Types:	int, float, complex
